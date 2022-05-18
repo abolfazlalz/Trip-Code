@@ -1,0 +1,19 @@
+.btn {
+    width: 100px;
+    height: 100px;
+    border: none;
+    font-size: 2rem;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    margin-bottom: 5px;
+}
+
+.background {
+    background-color: black;
+    width: fit-content;
+    margin: 0 auto;
+}
